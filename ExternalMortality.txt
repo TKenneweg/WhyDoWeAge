@@ -1,0 +1,170 @@
+"Notes"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"< 1 year"	"0"	34056	86913756	39.2
+	"1 year"	"1"	14377	86797764	16.6
+	"2 years"	"2"	11782	86929811	13.6
+	"3 years"	"3"	8822	87182977	10.1
+	"4 years"	"4"	7015	87659827	8.0
+	"5 years"	"5"	5602	87946156	6.4
+	"6 years"	"6"	4986	88063584	5.7
+	"7 years"	"7"	4644	88537250	5.2
+	"8 years"	"8"	4491	88927193	5.1
+	"9 years"	"9"	4467	89662113	5.0
+	"10 years"	"10"	4560	91191815	5.0
+	"11 years"	"11"	5279	91254641	5.8
+	"12 years"	"12"	6248	91813125	6.8
+	"13 years"	"13"	8453	91898610	9.2
+	"14 years"	"14"	12335	91928814	13.4
+	"15 years"	"15"	18363	92293423	19.9
+	"16 years"	"16"	29656	92825891	31.9
+	"17 years"	"17"	39107	93175489	42.0
+	"18 years"	"18"	53442	93864243	56.9
+	"19 years"	"19"	59776	94632228	63.2
+	"20 years"	"20"	61726	94335631	65.4
+	"21 years"	"21"	67671	94142883	71.9
+	"22 years"	"22"	67186	93795531	71.6
+	"23 years"	"23"	66946	93414927	71.7
+	"24 years"	"24"	66839	93314476	71.6
+	"25 years"	"25"	66049	93312169	70.8
+	"26 years"	"26"	65811	92565073	71.1
+	"27 years"	"27"	65071	92673968	70.2
+	"28 years"	"28"	64478	92390135	69.8
+	"29 years"	"29"	64394	91945708	70.0
+	"30 years"	"30"	63068	92345512	68.3
+	"31 years"	"31"	62515	91023006	68.7
+	"32 years"	"32"	62062	91366293	67.9
+	"33 years"	"33"	61938	91073852	68.0
+	"34 years"	"34"	62006	91393753	67.8
+	"35 years"	"35"	62801	92025812	68.2
+	"36 years"	"36"	62444	92004724	67.9
+	"37 years"	"37"	63129	92335001	68.4
+	"38 years"	"38"	63635	92600767	68.7
+	"39 years"	"39"	64077	93075358	68.8
+	"40 years"	"40"	64507	93460185	69.0
+	"41 years"	"41"	65015	93410547	69.6
+	"42 years"	"42"	65203	93953466	69.4
+	"43 years"	"43"	65754	94156713	69.8
+	"44 years"	"44"	66719	94264715	70.8
+	"45 years"	"45"	67655	94602299	71.5
+	"46 years"	"46"	68690	94430530	72.7
+	"47 years"	"47"	69249	94617213	73.2
+	"48 years"	"48"	69431	94137799	73.8
+	"49 years"	"49"	69469	93856655	74.0
+	"50 years"	"50"	67787	93038361	72.9
+	"51 years"	"51"	67838	92159827	73.6
+	"52 years"	"52"	66832	91747164	72.8
+	"53 years"	"53"	65678	90001429	73.0
+	"54 years"	"54"	64052	88984943	72.0
+	"55 years"	"55"	62550	87161529	71.8
+	"56 years"	"56"	60525	85565818	70.7
+	"57 years"	"57"	57928	83225007	69.6
+	"58 years"	"58"	55400	80898275	68.5
+	"59 years"	"59"	52459	78303457	67.0
+	"60 years"	"60"	49479	75551982	65.5
+	"61 years"	"61"	46826	73007906	64.1
+	"62 years"	"62"	43878	70401667	62.3
+	"63 years"	"63"	41655	67488579	61.7
+	"64 years"	"64"	39584	64820627	61.1
+	"65 years"	"65"	37645	62183840	60.5
+	"66 years"	"66"	35846	59443106	60.3
+	"67 years"	"67"	35214	56900798	61.9
+	"68 years"	"68"	34533	54430266	63.4
+	"69 years"	"69"	33462	52070639	64.3
+	"70 years"	"70"	32955	49656721	66.4
+	"71 years"	"71"	33042	47472509	69.6
+	"72 years"	"72"	32899	45109416	72.9
+	"73 years"	"73"	33419	42834981	78.0
+	"74 years"	"74"	33647	40356065	83.4
+	"75 years"	"75"	34958	38455293	90.9
+	"76 years"	"76"	35994	36686013	98.1
+	"77 years"	"77"	36774	34784646	105.7
+	"78 years"	"78"	37745	32780855	115.1
+	"79 years"	"79"	39441	30824363	128.0
+	"80 years"	"80"	40220	28878316	139.3
+	"81 years"	"81"	41392	26986817	153.4
+	"82 years"	"82"	42467	25008556	169.8
+	"83 years"	"83"	43360	23046696	188.1
+	"84 years"	"84"	44030	21052878	209.1
+	"85 years"	"85"	44623	Not Applicable	Not Applicable
+	"86 years"	"86"	44053	Not Applicable	Not Applicable
+	"87 years"	"87"	43334	Not Applicable	Not Applicable
+	"88 years"	"88"	42099	Not Applicable	Not Applicable
+	"89 years"	"89"	39950	Not Applicable	Not Applicable
+	"90 years"	"90"	37296	Not Applicable	Not Applicable
+	"91 years"	"91"	34085	Not Applicable	Not Applicable
+	"92 years"	"92"	30570	Not Applicable	Not Applicable
+	"93 years"	"93"	26904	Not Applicable	Not Applicable
+	"94 years"	"94"	22553	Not Applicable	Not Applicable
+	"95 years"	"95"	18425	Not Applicable	Not Applicable
+	"96 years"	"96"	14314	Not Applicable	Not Applicable
+	"97 years"	"97"	11423	Not Applicable	Not Applicable
+	"98 years"	"98"	8435	Not Applicable	Not Applicable
+	"99 years"	"99"	6043	Not Applicable	Not Applicable
+	"100+ years"	"100"	10911	Not Applicable	Not Applicable
+	"Not Stated"	"NS"	1667	Not Applicable	Not Applicable
+"Total"			4311198	6746356647	63.9
+"---"
+"Dataset: Underlying Cause of Death, 1999-2020"
+"Query Parameters:"
+"ICD-10 Codes: V01-Y89 (External causes of morbidity and mortality)"
+"Group By: Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Jan 24, 2025 4:37:19 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10.html on Jan 24, 2025 4:37:19 AM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"4. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"5. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"6. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"7. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010"
+"are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident"
+"population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population"
+"figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1"
+"estimates. Population figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"9. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
